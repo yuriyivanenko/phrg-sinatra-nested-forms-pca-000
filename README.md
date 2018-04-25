@@ -35,4 +35,4 @@ The word in quotes after fill_in needs to be set as an ID in the form. This is b
 
 * [Lab Review- Pirates](https://www.youtube.com/watch?v=kgHN11dQ3H0)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-nested-forms' title='Sinatra Nested Forms Lab: Pirates!'>Sinatra Nested Forms Lab: Pirates!</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Sinatra Nested Forms Lab: Pirates!</p>
